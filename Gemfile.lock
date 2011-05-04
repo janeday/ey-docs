@@ -35,6 +35,7 @@ GEM
     nokogiri (1.4.4)
     posix-spawn (0.3.6)
     rack (1.2.2)
+    rake (0.8.7)
     rdiscount (1.6.8)
     sanitize (2.0.1)
       nokogiri (~> 1.4.4)
@@ -49,4 +50,5 @@ PLATFORMS
 DEPENDENCIES
   bundler (= 1.0.12)
   gollum-site!
+  rake
   rdiscount
